@@ -1,0 +1,30 @@
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Release\Calculator.mdf
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Release\Calculator_log.ldf
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Release\CalculatorDKS.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Release\CalculatorDKS.exe
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Release\CalculatorDKS.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.Form1.resources
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.Properties.Resources.resources
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.exe
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Release\CalculatorDKS.pdb
+C:\Users\denis\source\repos\CalculatorDKS\bin\Release\Calculator.mdf
+C:\Users\denis\source\repos\CalculatorDKS\bin\Release\Calculator_log.ldf
+C:\Users\denis\source\repos\CalculatorDKS\bin\Release\CalculatorDKS.exe.config
+C:\Users\denis\source\repos\CalculatorDKS\bin\Release\CalculatorDKS.exe
+C:\Users\denis\source\repos\CalculatorDKS\bin\Release\CalculatorDKS.pdb
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.Form1.resources
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.Properties.Resources.resources
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.exe
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.pdb
+C:\Users\denis\source\repos\CalculatorDKS\bin\Release\CalculatorDKS.exe.manifest
+C:\Users\denis\source\repos\CalculatorDKS\bin\Release\CalculatorDKS.application
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.exe.manifest
+C:\Users\denis\source\repos\CalculatorDKS\obj\Release\CalculatorDKS.application

@@ -1,0 +1,30 @@
+C:\Users\denis\source\repos\CalculatorDKS\bin\Debug\CalculatorDKS.exe.config
+C:\Users\denis\source\repos\CalculatorDKS\bin\Debug\CalculatorDKS.exe
+C:\Users\denis\source\repos\CalculatorDKS\bin\Debug\CalculatorDKS.pdb
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.Form1.resources
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.Properties.Resources.resources
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.exe
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.pdb
+C:\Users\denis\source\repos\CalculatorDKS\bin\Debug\Calculator.mdf
+C:\Users\denis\source\repos\CalculatorDKS\bin\Debug\Calculator_log.ldf
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.exe
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Debug\Calculator.mdf
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Debug\Calculator_log.ldf
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Debug\CalculatorDKS.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Debug\CalculatorDKS.exe
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\bin\Debug\CalculatorDKS.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.Form1.resources
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.Properties.Resources.resources
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Рабочий стол\Новая папка\CalculatorDKS\obj\Debug\CalculatorDKS.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\CalculatorDKS\bin\Debug\CalculatorDKS.exe.manifest
+C:\Users\denis\source\repos\CalculatorDKS\bin\Debug\CalculatorDKS.application
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.exe.manifest
+C:\Users\denis\source\repos\CalculatorDKS\obj\Debug\CalculatorDKS.application
